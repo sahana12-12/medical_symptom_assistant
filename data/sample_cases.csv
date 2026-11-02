@@ -1,0 +1,2 @@
+case_id,age,sex,symptoms,duration,severity,history,medications,allergies
+sample_001,22,Female,"Fever, cough, and sore throat",2 days,Mild,No known relevant condition,None reported,None reported
